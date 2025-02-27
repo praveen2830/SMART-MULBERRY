@@ -1,0 +1,43 @@
+.mobile-container {
+      max-width: 600px;
+      margin: 0 auto;
+      padding: 20px;
+      font-family: sans-serif;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+    }
+
+    header {
+      text-align: center;
+      padding-bottom: 20px;
+      border-bottom: 1px solid #eee;
+    }
+
+    main {
+      padding: 20px 0;
+    }
+
+    footer {
+      text-align: center;
+      padding-top: 20px;
+      border-top: 1px solid #eee;
+    }
+
+    input[type="file"] {
+      margin-bottom: 10px;
+    }
+
+    button {
+      padding: 10px 20px;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+
+    .result {
+      margin-top: 20px;
+      padding: 10px;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+    }
